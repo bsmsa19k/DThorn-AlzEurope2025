@@ -10,10 +10,17 @@
       margin-top: 50px;
       background-color: #f5f5f5;
     }
+    img {
+      max-width: 90%;
+      height: auto;
+      border: 2px solid #ccc;
+      border-radius: 10px;
+    }
   </style>
 </head>
 <body>
   <h1>Alzheimer Europe 2025</h1>
-  <img src="Living in a grey area AE2025 Poster - Final.pptx" alt="NoDem Study Poster">
+  <img src="poster.jpg" alt="NoDem Study Poster">
+  <p><a href="Living in a grey area AE2025 Poster - Final.pptx" download>Download PowerPoint version</a></p>
 </body>
 </html>
